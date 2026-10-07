@@ -1,0 +1,814 @@
+Order_ID,Platform,Category,Delay,Delay_Bucket,Delay_Band,Band_Order,Rating,Refund,Theme,Satisfaction
+QCOM5073,Zepto,Electronics Accessories,9,Minor Delay,6-10,2,3,0,General Experience,Neutral
+QCOM5074,Swiggy Instamart,Pet Supplies,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5124,Flipkart Minutes,Personal Care,1,Minor Delay,1-5,1,5,0,Product Quality,Satisfied
+QCOM5121,JioMart,Dairy & Eggs,39,Severe Delay,31-45,6,1,1,Order Accuracy,Dissatisfied
+QCOM5035,Blinkit,Frozen Food,4,Minor Delay,1-5,1,5,0,General Experience,Satisfied
+QCOM5094,Zepto,Electronics Accessories,43,Severe Delay,31-45,6,2,1,Packaging,Dissatisfied
+QCOM5028,Zepto,Electronics Accessories,18,Moderate Delay,16-20,4,2,1,App & Checkout,Dissatisfied
+QCOM5122,Blinkit,Fruits & Vegetables,7,Minor Delay,6-10,2,3,0,App & Checkout,Neutral
+QCOM5047,Flipkart Minutes,Beauty & Cosmetics,80,Severe Delay,61-90,8,2,1,Product Quality,Dissatisfied
+QCOM5112,Zepto,Baby Care,8,Minor Delay,6-10,2,4,0,Product Quality,Satisfied
+QCOM5151,Blinkit,Baby Care,1,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCOM5153,JioMart,Pet Supplies,42,Severe Delay,31-45,6,3,0,General Experience,Neutral
+QCOM5005,Swiggy Instamart,Health & Wellness,0,On Time,0,0,4,0,General Experience,Satisfied
+QCOM5096,Swiggy Instamart,Snacks & Beverages,45,Severe Delay,31-45,6,1,0,Order Accuracy,Dissatisfied
+QCOM5095,Zepto,Personal Care,18,Moderate Delay,16-20,4,4,0,General Experience,Satisfied
+QCOM5079,JioMart,Household Essentials,43,Severe Delay,31-45,6,2,1,Support & Refund,Dissatisfied
+QCOM5036,Swiggy Instamart,Frozen Food,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5086,BigBasket Now,Baby Care,23,Moderate Delay,21-30,5,2,1,Delay & Speed,Dissatisfied
+QCOM5147,Blinkit,Frozen Food,16,Moderate Delay,16-20,4,4,0,Packaging,Satisfied
+QCOM5106,Flipkart Minutes,Bakery,33,Severe Delay,31-45,6,1,1,Order Accuracy,Dissatisfied
+QCOM5119,Swiggy Instamart,Snacks & Beverages,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5115,Blinkit,Snacks & Beverages,35,Severe Delay,31-45,6,3,0,App & Checkout,Neutral
+QCOM5071,BigBasket Now,Fruits & Vegetables,16,Moderate Delay,16-20,4,3,0,Packaging,Neutral
+QCOM5001,JioMart,Stationery,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5131,JioMart,Household Essentials,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5128,Swiggy Instamart,Meat & Seafood,3,Minor Delay,1-5,1,4,0,App & Checkout,Satisfied
+QCOM5070,JioMart,Fruits & Vegetables,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5014,Amazon Fresh,Health & Wellness,4,Minor Delay,1-5,1,4,0,Product Quality,Satisfied
+QCOM5140,Amazon Fresh,Beauty & Cosmetics,50,Severe Delay,46-60,7,2,1,Order Accuracy,Dissatisfied
+QCOM5018,Zepto,Electronics Accessories,18,Moderate Delay,16-20,4,4,0,Packaging,Satisfied
+ORD10034,Swiggy Instamart,Household Essentials,14,Moderate Delay,11-15,3,4,0,General Experience,Satisfied
+QCOM5138,Blinkit,Household Essentials,1,Minor Delay,1-5,1,3,0,General Experience,Neutral
+QCOM5155,Swiggy Instamart,Health & Wellness,7,Minor Delay,6-10,2,5,0,App & Checkout,Satisfied
+QCOM5069,Swiggy Instamart,Health & Wellness,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5143,Blinkit,Stationery,0,On Time,0,0,5,0,Packaging,Satisfied
+QCOM5006,BigBasket Now,Stationery,47,Severe Delay,46-60,7,2,1,Order Accuracy,Dissatisfied
+QCOM5136,BigBasket Now,Meat & Seafood,73,Severe Delay,61-90,8,3,0,App & Checkout,Neutral
+QCOM5055,Zepto,Personal Care,10,Minor Delay,6-10,2,3,0,General Experience,Neutral
+ORD10142,Blinkit,Fruits & Vegetables,16,Moderate Delay,16-20,4,3,0,Packaging,Neutral
+QCOM5085,Blinkit,Baby Care,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5126,Swiggy Instamart,Health & Wellness,23,Moderate Delay,21-30,5,4,0,App & Checkout,Satisfied
+QCOM5023,Swiggy Instamart,Ready To Eat Meals,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCOM5009,Blinkit,Electronics Accessories,16,Moderate Delay,16-20,4,2,0,Support & Refund,Dissatisfied
+ORD10151,Blinkit,Frozen Food,7,Minor Delay,6-10,2,4,0,Delay & Speed,Satisfied
+QCOM5158,JioMart,Household Essentials,25,Moderate Delay,21-30,5,3,0,Delay & Speed,Neutral
+ORD10125,BigBasket Now,Meat & Seafood,0,On Time,0,0,5,0,Packaging,Satisfied
+ORD10100,JioMart,Meat & Seafood,20,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+ORD10038,JioMart,Personal Care,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10140,Zepto,Electronics Accessories,15,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCOM5011,Blinkit,Stationery,6,Minor Delay,6-10,2,4,0,App & Checkout,Satisfied
+QCOM5048,Zepto,Meat & Seafood,11,Moderate Delay,11-15,3,2,1,Packaging,Dissatisfied
+QCOM5156,Blinkit,Electronics Accessories,13,Moderate Delay,11-15,3,3,0,Delay & Speed,Neutral
+ORD10071,Blinkit,Stationery,1,Minor Delay,1-5,1,3,0,Packaging,Neutral
+ORD10097,JioMart,Frozen Food,34,Severe Delay,31-45,6,1,1,Rider Conduct,Dissatisfied
+QCOM5065,BigBasket Now,Stationery,11,Moderate Delay,11-15,3,2,1,Packaging,Dissatisfied
+ORD10090,BigBasket Now,Bakery,40,Severe Delay,31-45,6,3,0,General Experience,Neutral
+ORD10102,Blinkit,Pet Supplies,4,Minor Delay,1-5,1,5,0,Product Quality,Satisfied
+QCOM5032,Blinkit,Personal Care,2,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+ORD10130,JioMart,Pet Supplies,0,On Time,0,0,5,0,Packaging,Satisfied
+QCOM5016,Amazon Fresh,Fruits & Vegetables,8,Minor Delay,6-10,2,3,1,General Experience,Neutral
+QCOM5127,Swiggy Instamart,Health & Wellness,9,Minor Delay,6-10,2,4,0,Product Quality,Satisfied
+ORD10093,Blinkit,Meat & Seafood,15,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+ORD10047,Flipkart Minutes,Personal Care,62,Severe Delay,61-90,8,3,0,General Experience,Neutral
+QCOM5144,Zepto,Meat & Seafood,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5010,JioMart,Household Essentials,17,Moderate Delay,16-20,4,2,1,Support & Refund,Dissatisfied
+QCOM5145,Zepto,Ready To Eat Meals,43,Severe Delay,31-45,6,2,1,Order Accuracy,Dissatisfied
+ORD10054,Amazon Fresh,Stationery,12,Moderate Delay,11-15,3,2,1,Product Quality,Dissatisfied
+QCOM5021,Zepto,Health & Wellness,19,Moderate Delay,16-20,4,4,0,App & Checkout,Satisfied
+ORD10060,Swiggy Instamart,Bakery,2,Minor Delay,1-5,1,5,0,General Experience,Satisfied
+ORD10145,Zepto,Personal Care,0,On Time,0,0,5,0,Packaging,Satisfied
+ORD10148,Zepto,Snacks & Beverages,15,Moderate Delay,11-15,3,4,0,Delay & Speed,Satisfied
+ORD10040,Amazon Fresh,Fruits & Vegetables,87,Severe Delay,61-90,8,2,0,Rider Conduct,Dissatisfied
+ORD10155,Zepto,Fruits & Vegetables,19,Moderate Delay,16-20,4,4,0,General Experience,Satisfied
+ORD10153,Swiggy Instamart,Pet Supplies,15,Moderate Delay,11-15,3,2,1,Support & Refund,Dissatisfied
+QCOM5130,Blinkit,Dairy & Eggs,4,Minor Delay,1-5,1,4,0,App & Checkout,Satisfied
+ORD10039,Blinkit,Personal Care,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+ORD10061,Swiggy Instamart,Health & Wellness,0,On Time,0,0,5,0,Product Quality,Satisfied
+ORD10030,Zepto,Snacks & Beverages,13,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCOM5060,Zepto,Snacks & Beverages,51,Severe Delay,46-60,7,3,0,App & Checkout,Neutral
+QCOM5041,BigBasket Now,Stationery,0,On Time,0,0,5,0,Packaging,Satisfied
+ORD10078,Swiggy Instamart,Household Essentials,9,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCOM5090,JioMart,Baby Care,49,Severe Delay,46-60,7,2,1,Product Quality,Dissatisfied
+ORD10015,Blinkit,Dairy & Eggs,15,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+ORD10127,Blinkit,Frozen Food,19,Moderate Delay,16-20,4,2,0,Order Accuracy,Dissatisfied
+ORD10118,Flipkart Minutes,Fruits & Vegetables,95,Severe Delay,90+,9,1,0,Support & Refund,Dissatisfied
+QCOM5012,Zepto,Fruits & Vegetables,11,Moderate Delay,11-15,3,2,1,Support & Refund,Dissatisfied
+QCOM5088,Flipkart Minutes,Beauty & Cosmetics,57,Severe Delay,46-60,7,1,0,Support & Refund,Dissatisfied
+QCOM5089,Flipkart Minutes,Meat & Seafood,118,Severe Delay,90+,9,3,0,Packaging,Neutral
+QCOM5024,Blinkit,Frozen Food,0,On Time,0,0,5,0,App & Checkout,Satisfied
+QCOM5118,BigBasket Now,Stationery,0,On Time,0,0,5,0,Rider Conduct,Satisfied
+ORD10112,Swiggy Instamart,Dairy & Eggs,0,On Time,0,0,5,0,Product Quality,Satisfied
+ORD10122,Swiggy Instamart,Frozen Food,19,Moderate Delay,16-20,4,3,1,General Experience,Neutral
+QCOM5008,Flipkart Minutes,Health & Wellness,1,Minor Delay,1-5,1,5,0,App & Checkout,Satisfied
+QCOM5148,Blinkit,Dairy & Eggs,0,On Time,0,0,4,0,App & Checkout,Satisfied
+ORD10031,Zepto,Baby Care,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10146,Swiggy Instamart,Pet Supplies,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10119,Blinkit,Baby Care,0,On Time,0,0,4,0,General Experience,Satisfied
+ORD10017,Amazon Fresh,Electronics Accessories,88,Severe Delay,61-90,8,1,1,App & Checkout,Dissatisfied
+ORD10104,Swiggy Instamart,Electronics Accessories,3,Minor Delay,1-5,1,4,0,Delay & Speed,Satisfied
+ORD10027,Zepto,Dairy & Eggs,13,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCOM5116,BigBasket Now,Stationery,22,Moderate Delay,21-30,5,2,0,Support & Refund,Dissatisfied
+ORD10110,Blinkit,Personal Care,6,Minor Delay,6-10,2,4,0,Delay & Speed,Satisfied
+QCOM5129,Zepto,Ready To Eat Meals,8,Minor Delay,6-10,2,4,0,App & Checkout,Satisfied
+ORD10087,Zepto,Stationery,16,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+ORD10137,Flipkart Minutes,Electronics Accessories,51,Severe Delay,46-60,7,1,1,Product Quality,Dissatisfied
+QCOM5075,Flipkart Minutes,Baby Care,105,Severe Delay,90+,9,2,1,Product Quality,Dissatisfied
+ORD10073,JioMart,Snacks & Beverages,23,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+ORD10114,Swiggy Instamart,Bakery,11,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCOM5078,Zepto,Frozen Food,2,Minor Delay,1-5,1,5,0,App & Checkout,Satisfied
+QCOM5102,Blinkit,Electronics Accessories,23,Moderate Delay,21-30,5,4,0,General Experience,Satisfied
+ORD10049,JioMart,Personal Care,10,Minor Delay,6-10,2,4,0,Packaging,Satisfied
+QCOM5146,Zepto,Household Essentials,12,Moderate Delay,11-15,3,3,0,Packaging,Neutral
+QCOM5123,BigBasket Now,Personal Care,2,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCOM5052,Zepto,Frozen Food,13,Moderate Delay,11-15,3,2,0,Rider Conduct,Dissatisfied
+ORD10046,Blinkit,Personal Care,7,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCOM5091,Amazon Fresh,Health & Wellness,0,On Time,0,0,5,0,App & Checkout,Satisfied
+ORD10117,BigBasket Now,Stationery,16,Moderate Delay,16-20,4,3,0,Packaging,Neutral
+ORD10056,Zepto,Dairy & Eggs,30,Moderate Delay,21-30,5,1,1,Order Accuracy,Dissatisfied
+ORD10028,Swiggy Instamart,Fruits & Vegetables,2,Minor Delay,1-5,1,3,0,General Experience,Neutral
+QCOM5015,Blinkit,Frozen Food,16,Moderate Delay,16-20,4,3,0,App & Checkout,Neutral
+QCOM5077,Zepto,Electronics Accessories,15,Moderate Delay,11-15,3,4,0,Packaging,Satisfied
+ORD10084,JioMart,Baby Care,45,Severe Delay,31-45,6,3,1,General Experience,Neutral
+QCOM5125,JioMart,Snacks & Beverages,9,Minor Delay,6-10,2,3,0,Packaging,Neutral
+ORD10077,Flipkart Minutes,Personal Care,35,Severe Delay,31-45,6,1,0,Packaging,Dissatisfied
+QCOM5072,Amazon Fresh,Frozen Food,31,Severe Delay,31-45,6,1,0,Support & Refund,Dissatisfied
+ORD10095,JioMart,Bakery,40,Severe Delay,31-45,6,3,0,Product Quality,Neutral
+QCOM5022,Flipkart Minutes,Bakery,117,Severe Delay,90+,9,2,1,Support & Refund,Dissatisfied
+QCOM5137,Zepto,Fruits & Vegetables,14,Moderate Delay,11-15,3,4,0,App & Checkout,Satisfied
+ORD10053,Flipkart Minutes,Meat & Seafood,113,Severe Delay,90+,9,3,0,Packaging,Neutral
+ORD10021,Swiggy Instamart,Fruits & Vegetables,0,On Time,0,0,4,0,Product Quality,Satisfied
+ORD10004,JioMart,Fruits & Vegetables,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10133,Blinkit,Bakery,20,Moderate Delay,16-20,4,4,0,Delay & Speed,Satisfied
+ORD10008,BigBasket Now,Meat & Seafood,0,On Time,0,0,4,0,Delay & Speed,Satisfied
+ORD10063,JioMart,Household Essentials,45,Severe Delay,31-45,6,1,1,Order Accuracy,Dissatisfied
+QCOM5101,Blinkit,Dairy & Eggs,0,On Time,0,0,4,0,Packaging,Satisfied
+ORD10041,Zepto,Frozen Food,19,Moderate Delay,16-20,4,2,0,Support & Refund,Dissatisfied
+QCOM5081,Swiggy Instamart,Electronics Accessories,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100047,Blinkit,Beauty & Cosmetics,17,Moderate Delay,16-20,4,2,1,Product Quality,Dissatisfied
+QCRT100224,Swiggy Instamart,Snacks & Beverages,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100418,Blinkit,Snacks & Beverages,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+ORD10020,Flipkart Minutes,Snacks & Beverages,27,Moderate Delay,21-30,5,1,1,Product Quality,Dissatisfied
+QCRT100116,Blinkit,Bakery,8,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCRT100402,Flipkart Minutes,Electronics Accessories,167,Severe Delay,90+,9,2,1,Support & Refund,Dissatisfied
+ORD10058,JioMart,Dairy & Eggs,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100390,BigBasket Now,Bakery,35,Severe Delay,31-45,6,1,1,Packaging,Dissatisfied
+QCRT100374,Blinkit,Bakery,6,Minor Delay,6-10,2,4,0,Rider Conduct,Satisfied
+QCRT100117,Blinkit,Household Essentials,26,Moderate Delay,21-30,5,1,1,Order Accuracy,Dissatisfied
+QCRT100144,Swiggy Instamart,Personal Care,14,Moderate Delay,11-15,3,2,0,Packaging,Dissatisfied
+ORD10074,Zepto,Household Essentials,20,Moderate Delay,16-20,4,3,1,General Experience,Neutral
+ORD10105,Blinkit,Snacks & Beverages,16,Moderate Delay,16-20,4,2,0,Product Quality,Dissatisfied
+QCRT100062,JioMart,Snacks & Beverages,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5002,Flipkart Minutes,Dairy & Eggs,41,Severe Delay,31-45,6,2,1,Delay & Speed,Dissatisfied
+QCOM5093,Blinkit,Fruits & Vegetables,3,Minor Delay,1-5,1,4,1,Rider Conduct,Satisfied
+QCRT100370,Zepto,Dairy & Eggs,0,On Time,0,0,4,0,General Experience,Satisfied
+ORD10135,Blinkit,Personal Care,1,Minor Delay,1-5,1,5,0,General Experience,Satisfied
+QCRT100267,Swiggy Instamart,Snacks & Beverages,5,Minor Delay,1-5,1,5,0,General Experience,Satisfied
+QCRT100287,Flipkart Minutes,Dairy & Eggs,18,Moderate Delay,16-20,4,3,0,Delay & Speed,Neutral
+QCRT100218,Flipkart Minutes,Meat & Seafood,14,Moderate Delay,11-15,3,3,0,Delay & Speed,Neutral
+ORD10016,JioMart,Baby Care,28,Moderate Delay,21-30,5,2,1,Delay & Speed,Dissatisfied
+QCOM5061,BigBasket Now,Electronics Accessories,34,Severe Delay,31-45,6,2,0,Packaging,Dissatisfied
+QCRT100262,Flipkart Minutes,Stationery,79,Severe Delay,61-90,8,1,1,Support & Refund,Dissatisfied
+ORD10096,BigBasket Now,Snacks & Beverages,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100151,Flipkart Minutes,Bakery,87,Severe Delay,61-90,8,1,1,Order Accuracy,Dissatisfied
+QCRT100146,Swiggy Instamart,Electronics Accessories,38,Severe Delay,31-45,6,1,0,Packaging,Dissatisfied
+QCOM5097,BigBasket Now,Snacks & Beverages,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5150,Swiggy Instamart,Health & Wellness,39,Severe Delay,31-45,6,2,1,Packaging,Dissatisfied
+QCRT100385,Swiggy Instamart,Electronics Accessories,11,Moderate Delay,11-15,3,1,1,Support & Refund,Dissatisfied
+QCRT100123,Flipkart Minutes,Fruits & Vegetables,85,Severe Delay,61-90,8,1,1,Product Quality,Dissatisfied
+QCRT100082,Zepto,Fruits & Vegetables,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100351,Blinkit,Household Essentials,12,Moderate Delay,11-15,3,4,0,App & Checkout,Satisfied
+QCRT100342,Swiggy Instamart,Personal Care,16,Moderate Delay,16-20,4,1,1,Order Accuracy,Dissatisfied
+QCOM5058,Zepto,Snacks & Beverages,7,Minor Delay,6-10,2,3,0,General Experience,Neutral
+QCOM5046,Amazon Fresh,Pet Supplies,36,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCOM5067,Zepto,Dairy & Eggs,0,On Time,0,0,4,0,Rider Conduct,Satisfied
+QCRT100087,JioMart,Stationery,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100109,Zepto,Dairy & Eggs,13,Moderate Delay,11-15,3,4,0,Rider Conduct,Satisfied
+QCRT100225,Blinkit,Beauty & Cosmetics,34,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCRT100019,Blinkit,Fruits & Vegetables,4,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100168,Swiggy Instamart,Household Essentials,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100353,Zepto,Bakery,18,Moderate Delay,16-20,4,1,0,Cold Chain,Dissatisfied
+QCRT100471,Blinkit,Fruits & Vegetables,44,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCRT100458,JioMart,Personal Care,19,Moderate Delay,16-20,4,4,0,General Experience,Satisfied
+QCRT100138,Flipkart Minutes,Ready To Eat Meals,92,Severe Delay,90+,9,1,0,Order Accuracy,Dissatisfied
+QCOM5133,Blinkit,Electronics Accessories,5,Minor Delay,1-5,1,3,1,General Experience,Neutral
+QCRT100376,Zepto,Fruits & Vegetables,16,Moderate Delay,16-20,4,2,0,Order Accuracy,Dissatisfied
+ORD10032,Zepto,Household Essentials,20,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100098,JioMart,Personal Care,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10121,Blinkit,Frozen Food,16,Moderate Delay,16-20,4,4,1,Delay & Speed,Satisfied
+ORD10055,Zepto,Personal Care,1,Minor Delay,1-5,1,5,0,Packaging,Satisfied
+QCRT100038,Zepto,Frozen Food,31,Severe Delay,31-45,6,3,0,General Experience,Neutral
+ORD10076,Swiggy Instamart,Health & Wellness,4,Minor Delay,1-5,1,5,0,Product Quality,Satisfied
+ORD10025,Swiggy Instamart,Snacks & Beverages,8,Minor Delay,6-10,2,4,0,Delay & Speed,Satisfied
+QCRT100210,Blinkit,Dairy & Eggs,5,Minor Delay,1-5,1,5,0,Delay & Speed,Satisfied
+QCOM5063,Flipkart Minutes,Fruits & Vegetables,24,Moderate Delay,21-30,5,3,1,General Experience,Neutral
+QCRT100102,Flipkart Minutes,Bakery,30,Moderate Delay,21-30,5,2,1,Order Accuracy,Dissatisfied
+QCRT100291,Zepto,Personal Care,53,Severe Delay,46-60,7,1,1,Support & Refund,Dissatisfied
+ORD10066,Swiggy Instamart,Pet Supplies,2,Minor Delay,1-5,1,5,0,General Experience,Satisfied
+ORD10072,Blinkit,Fruits & Vegetables,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCOM5117,Swiggy Instamart,Dairy & Eggs,4,Minor Delay,1-5,1,4,0,Product Quality,Satisfied
+QCRT100288,JioMart,Snacks & Beverages,0,On Time,0,0,5,0,Product Quality,Satisfied
+ORD10050,Swiggy Instamart,Frozen Food,4,Minor Delay,1-5,1,4,0,Delay & Speed,Satisfied
+QCRT100423,Blinkit,Snacks & Beverages,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100158,Zepto,Bakery,16,Moderate Delay,16-20,4,3,0,Product Quality,Neutral
+QCRT100282,Blinkit,Electronics Accessories,5,Minor Delay,1-5,1,3,0,Delay & Speed,Neutral
+ORD10026,Flipkart Minutes,Personal Care,148,Severe Delay,90+,9,2,1,Product Quality,Dissatisfied
+QCRT100442,BigBasket Now,Personal Care,29,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+QCRT100261,Zepto,Snacks & Beverages,34,Severe Delay,31-45,6,1,0,Cold Chain,Dissatisfied
+QCRT100028,Blinkit,Personal Care,0,On Time,0,0,4,0,Rider Conduct,Satisfied
+QCRT100095,JioMart,Dairy & Eggs,54,Severe Delay,46-60,7,2,0,Rider Conduct,Dissatisfied
+QCRT100245,Zepto,Beauty & Cosmetics,21,Moderate Delay,21-30,5,3,0,Packaging,Neutral
+ORD10001,BigBasket Now,Fruits & Vegetables,32,Severe Delay,31-45,6,1,0,App & Checkout,Dissatisfied
+QCRT100186,Blinkit,Frozen Food,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100384,Blinkit,Household Essentials,16,Moderate Delay,16-20,4,4,1,Rider Conduct,Satisfied
+QCRT100001,Blinkit,Health & Wellness,47,Severe Delay,46-60,7,1,1,Support & Refund,Dissatisfied
+QCOM5113,Blinkit,Meat & Seafood,8,Minor Delay,6-10,2,3,0,App & Checkout,Neutral
+ORD10012,Blinkit,Household Essentials,13,Moderate Delay,11-15,3,4,0,Delay & Speed,Satisfied
+QCRT100464,Blinkit,Beauty & Cosmetics,12,Moderate Delay,11-15,3,3,0,Delay & Speed,Neutral
+QCRT100272,BigBasket Now,Stationery,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100020,Swiggy Instamart,Health & Wellness,10,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCRT100169,BigBasket Now,Ready To Eat Meals,0,On Time,0,0,5,0,App & Checkout,Satisfied
+QCRT100480,JioMart,Snacks & Beverages,36,Severe Delay,31-45,6,1,1,Rider Conduct,Dissatisfied
+QCRT100190,Swiggy Instamart,Frozen Food,9,Minor Delay,6-10,2,3,0,General Experience,Neutral
+ORD10139,Blinkit,Dairy & Eggs,13,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+ORD10152,BigBasket Now,Meat & Seafood,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100134,Blinkit,Fruits & Vegetables,19,Moderate Delay,16-20,4,3,0,Product Quality,Neutral
+QCOM5157,Flipkart Minutes,Meat & Seafood,109,Severe Delay,90+,9,1,1,Order Accuracy,Dissatisfied
+QCOM5098,Flipkart Minutes,Ready To Eat Meals,120,Severe Delay,90+,9,3,0,Packaging,Neutral
+QCRT100239,Blinkit,Dairy & Eggs,8,Minor Delay,6-10,2,5,0,Product Quality,Satisfied
+QCRT100378,Swiggy Instamart,Health & Wellness,19,Moderate Delay,16-20,4,3,0,Product Quality,Neutral
+QCRT100005,Blinkit,Personal Care,48,Severe Delay,46-60,7,1,0,Order Accuracy,Dissatisfied
+QCRT100425,Swiggy Instamart,Personal Care,0,On Time,0,0,4,0,Product Quality,Satisfied
+QCOM5033,Zepto,Stationery,17,Moderate Delay,16-20,4,3,0,Delay & Speed,Neutral
+QCRT100462,Flipkart Minutes,Stationery,148,Severe Delay,90+,9,1,1,Support & Refund,Dissatisfied
+ORD10098,Swiggy Instamart,Pet Supplies,40,Severe Delay,31-45,6,1,1,Cold Chain,Dissatisfied
+QCRT100309,JioMart,Dairy & Eggs,9,Minor Delay,6-10,2,4,1,Packaging,Satisfied
+QCRT100379,Zepto,Household Essentials,8,Minor Delay,6-10,2,5,0,App & Checkout,Satisfied
+ORD10113,Zepto,Stationery,15,Moderate Delay,11-15,3,2,0,Cold Chain,Dissatisfied
+QCRT100408,BigBasket Now,Personal Care,33,Severe Delay,31-45,6,3,0,Product Quality,Neutral
+QCOM5003,Swiggy Instamart,Ready To Eat Meals,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10024,Zepto,Bakery,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100260,Zepto,Fruits & Vegetables,36,Severe Delay,31-45,6,2,0,Rider Conduct,Dissatisfied
+ORD10126,JioMart,Fruits & Vegetables,18,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100488,Zepto,Frozen Food,12,Moderate Delay,11-15,3,2,1,Packaging,Dissatisfied
+QCRT100414,Flipkart Minutes,Pet Supplies,113,Severe Delay,90+,9,1,1,Support & Refund,Dissatisfied
+QCOM5057,JioMart,Dairy & Eggs,36,Severe Delay,31-45,6,3,1,General Experience,Neutral
+QCOM5149,Blinkit,Pet Supplies,1,Minor Delay,1-5,1,4,0,Product Quality,Satisfied
+QCRT100332,JioMart,Fruits & Vegetables,0,On Time,0,0,5,0,App & Checkout,Satisfied
+QCRT100358,Zepto,Health & Wellness,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100305,Zepto,Dairy & Eggs,21,Moderate Delay,21-30,5,3,1,Product Quality,Neutral
+ORD10111,Swiggy Instamart,Fruits & Vegetables,7,Minor Delay,6-10,2,4,0,Packaging,Satisfied
+QCOM5004,Swiggy Instamart,Personal Care,0,On Time,0,0,4,0,Product Quality,Satisfied
+QCRT100436,Zepto,Dairy & Eggs,2,Minor Delay,1-5,1,4,0,Product Quality,Satisfied
+QCRT100221,Amazon Fresh,Bakery,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100444,Blinkit,Dairy & Eggs,0,On Time,0,0,3,0,Delay & Speed,Neutral
+QCOM5100,Blinkit,Pet Supplies,46,Severe Delay,46-60,7,2,0,Delay & Speed,Dissatisfied
+QCOM5007,Zepto,Beauty & Cosmetics,5,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100484,JioMart,Fruits & Vegetables,36,Severe Delay,31-45,6,2,1,Cold Chain,Dissatisfied
+QCRT100456,Swiggy Instamart,Dairy & Eggs,41,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCRT100428,Zepto,Bakery,8,Minor Delay,6-10,2,3,0,General Experience,Neutral
+QCRT100013,JioMart,Household Essentials,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100457,BigBasket Now,Beauty & Cosmetics,21,Moderate Delay,21-30,5,2,0,Support & Refund,Dissatisfied
+QCRT100264,BigBasket Now,Household Essentials,48,Severe Delay,46-60,7,3,0,App & Checkout,Neutral
+QCRT100092,Swiggy Instamart,Bakery,17,Moderate Delay,16-20,4,4,0,App & Checkout,Satisfied
+QCOM5059,Zepto,Bakery,10,Minor Delay,6-10,2,5,0,Product Quality,Satisfied
+QCOM5066,Swiggy Instamart,Dairy & Eggs,9,Minor Delay,6-10,2,4,0,Rider Conduct,Satisfied
+QCRT100356,JioMart,Dairy & Eggs,48,Severe Delay,46-60,7,3,0,General Experience,Neutral
+QCOM5082,Swiggy Instamart,Meat & Seafood,6,Minor Delay,6-10,2,3,0,General Experience,Neutral
+QCRT100366,Blinkit,Bakery,1,Minor Delay,1-5,1,4,0,Packaging,Satisfied
+ORD10094,Blinkit,Health & Wellness,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCOM5030,Zepto,Dairy & Eggs,3,Minor Delay,1-5,1,5,0,App & Checkout,Satisfied
+QCRT100329,Blinkit,Dairy & Eggs,7,Minor Delay,6-10,2,3,1,Product Quality,Neutral
+QCRT100048,Blinkit,Fruits & Vegetables,47,Severe Delay,46-60,7,3,0,Packaging,Neutral
+QCOM5037,Flipkart Minutes,Bakery,56,Severe Delay,46-60,7,2,1,App & Checkout,Dissatisfied
+QCOM5152,BigBasket Now,Meat & Seafood,11,Moderate Delay,11-15,3,4,0,Packaging,Satisfied
+QCRT100333,Flipkart Minutes,Meat & Seafood,58,Severe Delay,46-60,7,1,1,Order Accuracy,Dissatisfied
+QCRT100381,Swiggy Instamart,Dairy & Eggs,17,Moderate Delay,16-20,4,2,1,Support & Refund,Dissatisfied
+QCRT100060,Blinkit,Bakery,5,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100252,Swiggy Instamart,Dairy & Eggs,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100258,Zepto,Beauty & Cosmetics,13,Moderate Delay,11-15,3,2,1,Order Accuracy,Dissatisfied
+ORD10149,Zepto,Household Essentials,8,Minor Delay,6-10,2,4,0,Delay & Speed,Satisfied
+QCRT100257,Blinkit,Stationery,26,Moderate Delay,21-30,5,1,0,Support & Refund,Dissatisfied
+QCRT100327,JioMart,Electronics Accessories,22,Moderate Delay,21-30,5,3,0,Product Quality,Neutral
+QCRT100270,JioMart,Baby Care,68,Severe Delay,61-90,8,3,0,App & Checkout,Neutral
+QCRT100099,Zepto,Snacks & Beverages,4,Minor Delay,1-5,1,3,0,Delay & Speed,Neutral
+QCRT100468,BigBasket Now,Household Essentials,40,Severe Delay,31-45,6,3,0,Delay & Speed,Neutral
+QCRT100030,Blinkit,Household Essentials,5,Minor Delay,1-5,1,4,0,Packaging,Satisfied
+QCRT100189,Blinkit,Snacks & Beverages,4,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+ORD10134,Blinkit,Bakery,0,On Time,0,0,4,0,Delay & Speed,Satisfied
+QCRT100214,Blinkit,Fruits & Vegetables,22,Moderate Delay,21-30,5,4,0,Packaging,Satisfied
+QCRT100143,Zepto,Frozen Food,0,On Time,0,0,4,0,App & Checkout,Satisfied
+QCRT100041,Flipkart Minutes,Snacks & Beverages,39,Severe Delay,31-45,6,1,1,Rider Conduct,Dissatisfied
+QCRT100200,Zepto,Fruits & Vegetables,4,Minor Delay,1-5,1,4,0,App & Checkout,Satisfied
+ORD10108,Blinkit,Dairy & Eggs,58,Severe Delay,46-60,7,3,0,Packaging,Neutral
+QCRT100404,Zepto,Household Essentials,32,Severe Delay,31-45,6,2,0,Support & Refund,Dissatisfied
+QCRT100075,BigBasket Now,Snacks & Beverages,18,Moderate Delay,16-20,4,2,1,App & Checkout,Dissatisfied
+QCRT100233,Swiggy Instamart,Dairy & Eggs,25,Moderate Delay,21-30,5,2,0,Rider Conduct,Dissatisfied
+ORD10042,Zepto,Electronics Accessories,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100165,Flipkart Minutes,Fruits & Vegetables,102,Severe Delay,90+,9,2,1,Support & Refund,Dissatisfied
+QCRT100253,Blinkit,Snacks & Beverages,16,Moderate Delay,16-20,4,4,0,Product Quality,Satisfied
+QCRT100212,Blinkit,Ready To Eat Meals,17,Moderate Delay,16-20,4,1,1,Order Accuracy,Dissatisfied
+QCRT100188,JioMart,Fruits & Vegetables,23,Moderate Delay,21-30,5,1,0,Rider Conduct,Dissatisfied
+QCOM5031,Amazon Fresh,Household Essentials,28,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+QCRT100073,Flipkart Minutes,Dairy & Eggs,12,Moderate Delay,11-15,3,1,1,Order Accuracy,Dissatisfied
+QCRT100321,Blinkit,Fruits & Vegetables,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100354,Swiggy Instamart,Bakery,12,Moderate Delay,11-15,3,2,1,Product Quality,Dissatisfied
+ORD10067,Flipkart Minutes,Bakery,61,Severe Delay,61-90,8,1,1,Rider Conduct,Dissatisfied
+QCRT100255,BigBasket Now,Bakery,20,Moderate Delay,16-20,4,1,1,Support & Refund,Dissatisfied
+QCRT100265,JioMart,Fruits & Vegetables,49,Severe Delay,46-60,7,1,1,Cold Chain,Dissatisfied
+QCRT100500,Flipkart Minutes,Health & Wellness,166,Severe Delay,90+,9,1,1,Support & Refund,Dissatisfied
+QCRT100021,Blinkit,Dairy & Eggs,26,Moderate Delay,21-30,5,3,0,App & Checkout,Neutral
+QCRT100178,Blinkit,Fruits & Vegetables,41,Severe Delay,31-45,6,1,1,App & Checkout,Dissatisfied
+ORD10045,JioMart,Fruits & Vegetables,30,Moderate Delay,21-30,5,2,1,Packaging,Dissatisfied
+QCRT100015,Flipkart Minutes,Bakery,65,Severe Delay,61-90,8,2,1,Order Accuracy,Dissatisfied
+QCRT100039,Zepto,Snacks & Beverages,9,Minor Delay,6-10,2,5,0,Packaging,Satisfied
+QCRT100256,JioMart,Beauty & Cosmetics,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100027,Zepto,Baby Care,9,Minor Delay,6-10,2,4,0,Rider Conduct,Satisfied
+QCRT100070,BigBasket Now,Snacks & Beverages,56,Severe Delay,46-60,7,1,1,Packaging,Dissatisfied
+QCRT100302,JioMart,Dairy & Eggs,26,Moderate Delay,21-30,5,1,0,Support & Refund,Dissatisfied
+QCRT100170,Zepto,Dairy & Eggs,7,Minor Delay,6-10,2,4,0,App & Checkout,Satisfied
+ORD10068,BigBasket Now,Stationery,0,On Time,0,0,4,0,Delay & Speed,Satisfied
+QCRT100145,JioMart,Electronics Accessories,5,Minor Delay,1-5,1,5,0,Rider Conduct,Satisfied
+QCRT100421,JioMart,Stationery,51,Severe Delay,46-60,7,1,1,Order Accuracy,Dissatisfied
+QCRT100009,Blinkit,Fruits & Vegetables,31,Severe Delay,31-45,6,2,1,Support & Refund,Dissatisfied
+QCRT100185,Blinkit,Household Essentials,18,Moderate Delay,16-20,4,3,0,App & Checkout,Neutral
+QCRT100268,Blinkit,Fruits & Vegetables,3,Minor Delay,1-5,1,4,0,Packaging,Satisfied
+QCRT100424,Zepto,Bakery,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100263,Amazon Fresh,Fruits & Vegetables,54,Severe Delay,46-60,7,2,1,Packaging,Dissatisfied
+QCRT100203,Blinkit,Fruits & Vegetables,25,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+QCRT100439,Blinkit,Fruits & Vegetables,5,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100297,BigBasket Now,Stationery,23,Moderate Delay,21-30,5,3,0,Packaging,Neutral
+QCRT100250,BigBasket Now,Fruits & Vegetables,0,On Time,0,0,4,0,App & Checkout,Satisfied
+QCOM5043,Swiggy Instamart,Pet Supplies,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100283,BigBasket Now,Dairy & Eggs,42,Severe Delay,31-45,6,1,0,Support & Refund,Dissatisfied
+QCRT100058,JioMart,Bakery,14,Moderate Delay,11-15,3,3,1,General Experience,Neutral
+QCRT100242,JioMart,Household Essentials,17,Moderate Delay,16-20,4,4,0,Packaging,Satisfied
+QCOM5042,Blinkit,Household Essentials,0,On Time,0,0,4,0,General Experience,Satisfied
+ORD10147,Blinkit,Baby Care,0,On Time,0,0,4,0,Product Quality,Satisfied
+QCOM5040,Zepto,Ready To Eat Meals,17,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100164,Blinkit,Meat & Seafood,3,Minor Delay,1-5,1,3,0,General Experience,Neutral
+ORD10150,Amazon Fresh,Beauty & Cosmetics,82,Severe Delay,61-90,8,1,1,Order Accuracy,Dissatisfied
+ORD10036,Zepto,Pet Supplies,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10080,Swiggy Instamart,Household Essentials,1,Minor Delay,1-5,1,4,0,Delay & Speed,Satisfied
+QCOM5020,Swiggy Instamart,Bakery,10,Minor Delay,6-10,2,3,0,General Experience,Neutral
+QCRT100012,JioMart,Snacks & Beverages,4,Minor Delay,1-5,1,4,0,Product Quality,Satisfied
+ORD10120,Swiggy Instamart,Bakery,0,On Time,0,0,4,0,Delay & Speed,Satisfied
+QCRT100159,Zepto,Fruits & Vegetables,8,Minor Delay,6-10,2,2,1,Packaging,Dissatisfied
+QCOM5025,JioMart,Stationery,53,Severe Delay,46-60,7,2,1,App & Checkout,Dissatisfied
+QCRT100325,Zepto,Snacks & Beverages,25,Moderate Delay,21-30,5,4,0,General Experience,Satisfied
+QCRT100324,JioMart,Health & Wellness,36,Severe Delay,31-45,6,2,0,Support & Refund,Dissatisfied
+ORD10070,JioMart,Dairy & Eggs,43,Severe Delay,31-45,6,2,0,Cold Chain,Dissatisfied
+ORD10129,Zepto,Meat & Seafood,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100199,Zepto,Personal Care,24,Moderate Delay,21-30,5,2,1,Support & Refund,Dissatisfied
+QCOM5062,Blinkit,Electronics Accessories,2,Minor Delay,1-5,1,3,0,Packaging,Neutral
+QCOM5108,Blinkit,Stationery,14,Moderate Delay,11-15,3,2,0,App & Checkout,Dissatisfied
+QCOM5134,Zepto,Stationery,21,Moderate Delay,21-30,5,2,0,Order Accuracy,Dissatisfied
+QCRT100476,Swiggy Instamart,Snacks & Beverages,41,Severe Delay,31-45,6,2,1,Packaging,Dissatisfied
+ORD10011,Flipkart Minutes,Pet Supplies,10,Minor Delay,6-10,2,5,0,Delay & Speed,Satisfied
+QCRT100077,Blinkit,Snacks & Beverages,20,Moderate Delay,16-20,4,3,0,Product Quality,Neutral
+QCRT100303,Swiggy Instamart,Fruits & Vegetables,14,Moderate Delay,11-15,3,2,0,Support & Refund,Dissatisfied
+ORD10132,JioMart,Electronics Accessories,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100216,Flipkart Minutes,Dairy & Eggs,5,Minor Delay,1-5,1,5,0,General Experience,Satisfied
+QCRT100362,Zepto,Frozen Food,44,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCRT100422,Swiggy Instamart,Pet Supplies,21,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+QCOM5045,JioMart,Electronics Accessories,12,Moderate Delay,11-15,3,4,0,General Experience,Satisfied
+QCRT100314,JioMart,Electronics Accessories,21,Moderate Delay,21-30,5,2,0,App & Checkout,Dissatisfied
+QCRT100219,Blinkit,Household Essentials,43,Severe Delay,31-45,6,2,1,Support & Refund,Dissatisfied
+ORD10082,Swiggy Instamart,Snacks & Beverages,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100156,JioMart,Dairy & Eggs,0,On Time,0,0,5,0,App & Checkout,Satisfied
+QCOM5044,Swiggy Instamart,Health & Wellness,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100111,Zepto,Pet Supplies,9,Minor Delay,6-10,2,4,0,App & Checkout,Satisfied
+QCRT100387,JioMart,Household Essentials,39,Severe Delay,31-45,6,3,0,Delay & Speed,Neutral
+ORD10116,Zepto,Stationery,6,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCRT100069,JioMart,Ready To Eat Meals,5,Minor Delay,1-5,1,5,0,Packaging,Satisfied
+QCRT100275,Flipkart Minutes,Dairy & Eggs,103,Severe Delay,90+,9,1,0,Support & Refund,Dissatisfied
+QCRT100171,Swiggy Instamart,Stationery,1,Minor Delay,1-5,1,5,0,Packaging,Satisfied
+QCRT100150,Blinkit,Fruits & Vegetables,4,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+ORD10033,Blinkit,Bakery,32,Severe Delay,31-45,6,2,0,Support & Refund,Dissatisfied
+QCRT100430,Zepto,Fruits & Vegetables,5,Minor Delay,1-5,1,3,0,App & Checkout,Neutral
+QCRT100393,Blinkit,Dairy & Eggs,15,Moderate Delay,11-15,3,2,1,Order Accuracy,Dissatisfied
+QCRT100450,Blinkit,Personal Care,7,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCOM5110,Flipkart Minutes,Stationery,5,Minor Delay,1-5,1,3,0,General Experience,Neutral
+QCRT100248,Zepto,Bakery,16,Moderate Delay,16-20,4,4,0,Product Quality,Satisfied
+QCRT100086,Swiggy Instamart,Snacks & Beverages,30,Moderate Delay,21-30,5,3,0,Delay & Speed,Neutral
+QCRT100438,JioMart,Snacks & Beverages,0,On Time,0,0,5,0,Rider Conduct,Satisfied
+QCRT100322,Zepto,Frozen Food,7,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+ORD10007,Zepto,Household Essentials,19,Moderate Delay,16-20,4,4,0,General Experience,Satisfied
+QCRT100068,Blinkit,Dairy & Eggs,1,Minor Delay,1-5,1,3,0,Delay & Speed,Neutral
+QCOM5019,Zepto,Meat & Seafood,47,Severe Delay,46-60,7,3,0,General Experience,Neutral
+QCRT100036,Blinkit,Snacks & Beverages,17,Moderate Delay,16-20,4,3,1,Packaging,Neutral
+ORD10075,Swiggy Instamart,Baby Care,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100449,Blinkit,Dairy & Eggs,31,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCRT100315,JioMart,Personal Care,39,Severe Delay,31-45,6,2,0,Product Quality,Dissatisfied
+QCRT100467,Blinkit,Snacks & Beverages,38,Severe Delay,31-45,6,1,0,App & Checkout,Dissatisfied
+ORD10131,Zepto,Frozen Food,29,Moderate Delay,21-30,5,3,0,Packaging,Neutral
+QCRT100079,Zepto,Personal Care,16,Moderate Delay,16-20,4,2,1,Order Accuracy,Dissatisfied
+QCRT100326,Swiggy Instamart,Household Essentials,8,Minor Delay,6-10,2,5,0,Rider Conduct,Satisfied
+QCRT100346,Flipkart Minutes,Dairy & Eggs,139,Severe Delay,90+,9,2,1,Packaging,Dissatisfied
+QCOM5056,JioMart,Health & Wellness,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100085,JioMart,Bakery,66,Severe Delay,61-90,8,2,0,Delay & Speed,Dissatisfied
+QCRT100067,Swiggy Instamart,Bakery,17,Moderate Delay,16-20,4,4,0,Delay & Speed,Satisfied
+ORD10124,Blinkit,Pet Supplies,10,Minor Delay,6-10,2,3,1,General Experience,Neutral
+QCRT100119,Flipkart Minutes,Dairy & Eggs,22,Moderate Delay,21-30,5,2,1,Support & Refund,Dissatisfied
+ORD10091,Zepto,Beauty & Cosmetics,19,Moderate Delay,16-20,4,3,0,Packaging,Neutral
+ORD10018,Zepto,Fruits & Vegetables,20,Moderate Delay,16-20,4,2,1,Delay & Speed,Dissatisfied
+QCRT100401,Flipkart Minutes,Meat & Seafood,116,Severe Delay,90+,9,3,0,General Experience,Neutral
+QCRT100360,Zepto,Household Essentials,5,Minor Delay,1-5,1,4,0,Rider Conduct,Satisfied
+QCOM5103,Zepto,Stationery,4,Minor Delay,1-5,1,5,0,App & Checkout,Satisfied
+QCRT100371,Flipkart Minutes,Bakery,161,Severe Delay,90+,9,1,0,Support & Refund,Dissatisfied
+QCRT100064,Blinkit,Beauty & Cosmetics,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10035,Blinkit,Fruits & Vegetables,13,Moderate Delay,11-15,3,4,0,Delay & Speed,Satisfied
+ORD10023,Flipkart Minutes,Electronics Accessories,150,Severe Delay,90+,9,2,1,Delay & Speed,Dissatisfied
+QCRT100477,Zepto,Fruits & Vegetables,9,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCRT100043,Zepto,Stationery,11,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCOM5141,Zepto,Meat & Seafood,0,On Time,0,0,5,0,Packaging,Satisfied
+ORD10003,JioMart,Baby Care,5,Minor Delay,1-5,1,4,0,Delay & Speed,Satisfied
+QCRT100207,Zepto,Fruits & Vegetables,36,Severe Delay,31-45,6,2,1,Packaging,Dissatisfied
+QCOM5120,Blinkit,Frozen Food,2,Minor Delay,1-5,1,3,0,General Experience,Neutral
+ORD10069,BigBasket Now,Electronics Accessories,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCOM5068,Zepto,Electronics Accessories,50,Severe Delay,46-60,7,1,1,Order Accuracy,Dissatisfied
+QCRT100053,Swiggy Instamart,Household Essentials,29,Moderate Delay,21-30,5,3,0,Product Quality,Neutral
+QCRT100420,Blinkit,Snacks & Beverages,37,Severe Delay,31-45,6,2,1,Support & Refund,Dissatisfied
+ORD10062,Flipkart Minutes,Personal Care,33,Severe Delay,31-45,6,2,1,Support & Refund,Dissatisfied
+ORD10059,Zepto,Snacks & Beverages,5,Minor Delay,1-5,1,5,0,Packaging,Satisfied
+ORD10099,Zepto,Household Essentials,36,Severe Delay,31-45,6,1,0,Packaging,Dissatisfied
+QCRT100141,Flipkart Minutes,Dairy & Eggs,144,Severe Delay,90+,9,2,1,Packaging,Dissatisfied
+ORD10136,Blinkit,Beauty & Cosmetics,19,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100084,Blinkit,Beauty & Cosmetics,30,Moderate Delay,21-30,5,2,0,Rider Conduct,Dissatisfied
+QCRT100290,BigBasket Now,Ready To Eat Meals,13,Moderate Delay,11-15,3,2,0,Rider Conduct,Dissatisfied
+QCRT100140,Blinkit,Household Essentials,4,Minor Delay,1-5,1,5,0,Packaging,Satisfied
+QCRT100266,Blinkit,Dairy & Eggs,0,On Time,0,0,3,0,General Experience,Neutral
+QCRT100193,Flipkart Minutes,Pet Supplies,6,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCRT100395,BigBasket Now,Bakery,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100441,Flipkart Minutes,Beauty & Cosmetics,121,Severe Delay,90+,9,3,0,Delay & Speed,Neutral
+QCRT100316,JioMart,Meat & Seafood,34,Severe Delay,31-45,6,2,0,Cold Chain,Dissatisfied
+QCOM5132,Flipkart Minutes,Stationery,53,Severe Delay,46-60,7,2,1,Product Quality,Dissatisfied
+ORD10092,Swiggy Instamart,Meat & Seafood,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+ORD10085,Amazon Fresh,Stationery,22,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+ORD10009,BigBasket Now,Meat & Seafood,41,Severe Delay,31-45,6,1,0,Delay & Speed,Dissatisfied
+ORD10037,Swiggy Instamart,Bakery,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCOM5099,JioMart,Health & Wellness,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100431,Blinkit,Household Essentials,35,Severe Delay,31-45,6,2,0,Support & Refund,Dissatisfied
+QCRT100222,Swiggy Instamart,Personal Care,1,Minor Delay,1-5,1,3,0,App & Checkout,Neutral
+ORD10123,JioMart,Dairy & Eggs,38,Severe Delay,31-45,6,1,1,Cold Chain,Dissatisfied
+QCRT100187,Blinkit,Household Essentials,4,Minor Delay,1-5,1,3,0,Packaging,Neutral
+QCRT100320,Zepto,Dairy & Eggs,41,Severe Delay,31-45,6,1,0,Order Accuracy,Dissatisfied
+QCRT100289,JioMart,Dairy & Eggs,28,Moderate Delay,21-30,5,1,1,Order Accuracy,Dissatisfied
+ORD10043,BigBasket Now,Meat & Seafood,26,Moderate Delay,21-30,5,2,0,Support & Refund,Dissatisfied
+ORD10103,Blinkit,Dairy & Eggs,38,Severe Delay,31-45,6,2,1,App & Checkout,Dissatisfied
+QCRT100211,Blinkit,Health & Wellness,6,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCRT100319,Zepto,Beauty & Cosmetics,12,Moderate Delay,11-15,3,4,0,App & Checkout,Satisfied
+QCRT100054,Blinkit,Stationery,35,Severe Delay,31-45,6,2,1,Rider Conduct,Dissatisfied
+QCRT100294,JioMart,Household Essentials,9,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCRT100403,Zepto,Bakery,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100025,Zepto,Dairy & Eggs,39,Severe Delay,31-45,6,2,0,App & Checkout,Dissatisfied
+QCRT100133,Zepto,Beauty & Cosmetics,47,Severe Delay,46-60,7,1,1,Order Accuracy,Dissatisfied
+QCRT100007,JioMart,Beauty & Cosmetics,28,Moderate Delay,21-30,5,2,1,Support & Refund,Dissatisfied
+ORD10006,Zepto,Stationery,38,Severe Delay,31-45,6,2,1,Order Accuracy,Dissatisfied
+QCRT100448,Blinkit,Fruits & Vegetables,34,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCRT100026,Zepto,Household Essentials,18,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100042,Swiggy Instamart,Fruits & Vegetables,0,On Time,0,0,3,0,General Experience,Neutral
+QCRT100375,Swiggy Instamart,Ready To Eat Meals,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100209,Blinkit,Dairy & Eggs,0,On Time,0,0,5,0,Packaging,Satisfied
+ORD10107,Zepto,Stationery,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100465,Zepto,Beauty & Cosmetics,2,Minor Delay,1-5,1,4,0,Packaging,Satisfied
+QCRT100249,Zepto,Household Essentials,18,Moderate Delay,16-20,4,3,0,Delay & Speed,Neutral
+QCRT100474,Flipkart Minutes,Personal Care,58,Severe Delay,46-60,7,3,1,App & Checkout,Neutral
+ORD10081,JioMart,Pet Supplies,16,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100299,Blinkit,Snacks & Beverages,1,Minor Delay,1-5,1,3,0,Delay & Speed,Neutral
+QCRT100240,Flipkart Minutes,Meat & Seafood,129,Severe Delay,90+,9,1,1,Support & Refund,Dissatisfied
+QCRT100160,Blinkit,Fruits & Vegetables,31,Severe Delay,31-45,6,2,1,Order Accuracy,Dissatisfied
+QCRT100279,Amazon Fresh,Pet Supplies,82,Severe Delay,61-90,8,3,1,Packaging,Neutral
+QCRT100498,Blinkit,Fruits & Vegetables,0,On Time,0,0,4,0,Rider Conduct,Satisfied
+QCRT100195,Zepto,Bakery,41,Severe Delay,31-45,6,2,1,App & Checkout,Dissatisfied
+QCRT100217,Amazon Fresh,Household Essentials,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100463,Swiggy Instamart,Bakery,54,Severe Delay,46-60,7,2,0,Order Accuracy,Dissatisfied
+QCRT100147,Zepto,Fruits & Vegetables,29,Moderate Delay,21-30,5,2,1,Product Quality,Dissatisfied
+QCRT100223,Zepto,Snacks & Beverages,29,Moderate Delay,21-30,5,1,0,Packaging,Dissatisfied
+QCRT100308,Zepto,Electronics Accessories,8,Minor Delay,6-10,2,5,0,Delay & Speed,Satisfied
+QCRT100226,JioMart,Snacks & Beverages,100,Severe Delay,90+,9,2,1,Order Accuracy,Dissatisfied
+QCRT100336,Zepto,Snacks & Beverages,25,Moderate Delay,21-30,5,4,0,Delay & Speed,Satisfied
+QCRT100031,Blinkit,Dairy & Eggs,0,On Time,0,0,3,0,Delay & Speed,Neutral
+QCRT100334,Swiggy Instamart,Dairy & Eggs,14,Moderate Delay,11-15,3,2,1,Order Accuracy,Dissatisfied
+QCRT100139,Zepto,Fruits & Vegetables,44,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCOM5114,Swiggy Instamart,Beauty & Cosmetics,22,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+QCRT100235,Zepto,Household Essentials,8,Minor Delay,6-10,2,3,0,Delay & Speed,Neutral
+QCRT100301,BigBasket Now,Bakery,0,On Time,0,0,4,0,General Experience,Satisfied
+ORD10154,Blinkit,Electronics Accessories,11,Moderate Delay,11-15,3,4,0,Delay & Speed,Satisfied
+QCRT100479,Zepto,Personal Care,41,Severe Delay,31-45,6,1,1,Product Quality,Dissatisfied
+QCOM5029,JioMart,Personal Care,19,Moderate Delay,16-20,4,2,1,Support & Refund,Dissatisfied
+QCRT100142,Blinkit,Fruits & Vegetables,11,Moderate Delay,11-15,3,3,0,Delay & Speed,Neutral
+QCRT100191,Zepto,Household Essentials,47,Severe Delay,46-60,7,2,1,Support & Refund,Dissatisfied
+ORD10079,Swiggy Instamart,Frozen Food,17,Moderate Delay,16-20,4,3,0,Product Quality,Neutral
+QCRT100127,Zepto,Electronics Accessories,44,Severe Delay,31-45,6,2,1,Support & Refund,Dissatisfied
+ORD10144,Zepto,Personal Care,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100278,Zepto,Bakery,13,Moderate Delay,11-15,3,4,0,Product Quality,Satisfied
+QCRT100455,Swiggy Instamart,Ready To Eat Meals,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100100,Zepto,Ready To Eat Meals,27,Moderate Delay,21-30,5,2,1,Packaging,Dissatisfied
+QCRT100057,Blinkit,Fruits & Vegetables,35,Severe Delay,31-45,6,3,0,General Experience,Neutral
+QCRT100349,Swiggy Instamart,Bakery,1,Minor Delay,1-5,1,5,0,Delay & Speed,Satisfied
+QCRT100097,JioMart,Personal Care,0,On Time,0,0,5,1,Product Quality,Satisfied
+QCRT100497,Zepto,Bakery,46,Severe Delay,46-60,7,3,0,Delay & Speed,Neutral
+QCRT100149,Swiggy Instamart,Household Essentials,2,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCOM5027,Swiggy Instamart,Baby Care,0,On Time,0,0,5,1,General Experience,Satisfied
+QCRT100180,BigBasket Now,Bakery,0,On Time,0,0,5,0,Rider Conduct,Satisfied
+QCRT100377,Blinkit,Bakery,11,Moderate Delay,11-15,3,1,1,Cold Chain,Dissatisfied
+QCOM5013,Flipkart Minutes,Stationery,9,Minor Delay,6-10,2,4,0,App & Checkout,Satisfied
+QCRT100177,Blinkit,Household Essentials,15,Moderate Delay,11-15,3,1,1,Support & Refund,Dissatisfied
+QCRT100173,JioMart,Fruits & Vegetables,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100113,Swiggy Instamart,Baby Care,47,Severe Delay,46-60,7,2,0,Rider Conduct,Dissatisfied
+QCRT100405,Flipkart Minutes,Personal Care,95,Severe Delay,90+,9,1,0,Support & Refund,Dissatisfied
+QCRT100059,Amazon Fresh,Dairy & Eggs,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100466,Swiggy Instamart,Meat & Seafood,0,On Time,0,0,4,0,Product Quality,Satisfied
+QCRT100489,Swiggy Instamart,Snacks & Beverages,7,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+ORD10029,JioMart,Personal Care,0,On Time,0,0,4,0,Product Quality,Satisfied
+QCRT100269,BigBasket Now,Personal Care,25,Moderate Delay,21-30,5,3,0,Product Quality,Neutral
+QCRT100045,Blinkit,Beauty & Cosmetics,1,Minor Delay,1-5,1,3,0,Product Quality,Neutral
+QCRT100232,Zepto,Household Essentials,20,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+ORD10101,Blinkit,Snacks & Beverages,9,Minor Delay,6-10,2,4,0,Packaging,Satisfied
+QCOM5154,Swiggy Instamart,Dairy & Eggs,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100183,Swiggy Instamart,Personal Care,6,Minor Delay,6-10,2,2,0,Support & Refund,Dissatisfied
+ORD10064,Flipkart Minutes,Electronics Accessories,106,Severe Delay,90+,9,2,1,Order Accuracy,Dissatisfied
+QCRT100451,Amazon Fresh,Baby Care,0,On Time,0,0,5,0,Rider Conduct,Satisfied
+QCRT100205,Zepto,Household Essentials,0,On Time,0,0,4,0,Delay & Speed,Satisfied
+QCRT100135,JioMart,Beauty & Cosmetics,48,Severe Delay,46-60,7,2,0,Support & Refund,Dissatisfied
+QCRT100348,Swiggy Instamart,Baby Care,6,Minor Delay,6-10,2,3,0,General Experience,Neutral
+QCRT100247,Swiggy Instamart,Fruits & Vegetables,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100114,Flipkart Minutes,Electronics Accessories,148,Severe Delay,90+,9,2,1,Packaging,Dissatisfied
+QCRT100446,Blinkit,Bakery,13,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCRT100125,Blinkit,Fruits & Vegetables,5,Minor Delay,1-5,1,5,0,Packaging,Satisfied
+QCRT100339,Blinkit,Fruits & Vegetables,7,Minor Delay,6-10,2,5,0,Delay & Speed,Satisfied
+QCRT100110,Flipkart Minutes,Snacks & Beverages,107,Severe Delay,90+,9,1,1,Packaging,Dissatisfied
+QCRT100124,Blinkit,Fruits & Vegetables,0,On Time,0,0,5,0,Rider Conduct,Satisfied
+QCOM5038,JioMart,Bakery,2,Minor Delay,1-5,1,3,1,General Experience,Neutral
+QCRT100304,BigBasket Now,Snacks & Beverages,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100231,Blinkit,Beauty & Cosmetics,60,Severe Delay,46-60,7,2,0,Order Accuracy,Dissatisfied
+QCRT100131,Swiggy Instamart,Meat & Seafood,0,On Time,0,0,4,0,App & Checkout,Satisfied
+QCOM5135,Zepto,Bakery,8,Minor Delay,6-10,2,5,0,Product Quality,Satisfied
+QCRT100311,Zepto,Fruits & Vegetables,20,Moderate Delay,16-20,4,2,0,Support & Refund,Dissatisfied
+QCRT100491,JioMart,Dairy & Eggs,5,Minor Delay,1-5,1,4,0,Product Quality,Satisfied
+QCOM5034,Zepto,Personal Care,0,On Time,0,0,4,0,Packaging,Satisfied
+QCRT100241,JioMart,Beauty & Cosmetics,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100122,Zepto,Frozen Food,25,Moderate Delay,21-30,5,4,0,App & Checkout,Satisfied
+QCOM5142,Zepto,Snacks & Beverages,23,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+ORD10065,Blinkit,Health & Wellness,16,Moderate Delay,16-20,4,4,0,Delay & Speed,Satisfied
+QCRT100055,Zepto,Personal Care,15,Moderate Delay,11-15,3,3,0,Packaging,Neutral
+QCOM5084,Zepto,Dairy & Eggs,22,Moderate Delay,21-30,5,4,0,App & Checkout,Satisfied
+QCRT100050,BigBasket Now,Fruits & Vegetables,40,Severe Delay,31-45,6,3,1,App & Checkout,Neutral
+QCRT100490,Swiggy Instamart,Dairy & Eggs,12,Moderate Delay,11-15,3,2,1,Packaging,Dissatisfied
+QCRT100312,Blinkit,Household Essentials,10,Minor Delay,6-10,2,3,1,Packaging,Neutral
+QCRT100406,Amazon Fresh,Snacks & Beverages,85,Severe Delay,61-90,8,2,0,Support & Refund,Dissatisfied
+QCRT100409,BigBasket Now,Snacks & Beverages,0,On Time,0,0,5,0,App & Checkout,Satisfied
+QCRT100022,Zepto,Fruits & Vegetables,28,Moderate Delay,21-30,5,2,1,Packaging,Dissatisfied
+QCOM5064,Zepto,Dairy & Eggs,13,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCRT100103,Flipkart Minutes,Fruits & Vegetables,35,Severe Delay,31-45,6,2,0,Packaging,Dissatisfied
+QCRT100137,Zepto,Household Essentials,18,Moderate Delay,16-20,4,4,0,General Experience,Satisfied
+QCOM5054,BigBasket Now,Household Essentials,47,Severe Delay,46-60,7,2,0,Packaging,Dissatisfied
+QCOM5105,Blinkit,Ready To Eat Meals,0,On Time,0,0,4,0,Product Quality,Satisfied
+QCRT100382,Blinkit,Fruits & Vegetables,14,Moderate Delay,11-15,3,1,1,Product Quality,Dissatisfied
+QCRT100155,Swiggy Instamart,Electronics Accessories,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100481,Swiggy Instamart,Baby Care,0,On Time,0,0,5,0,App & Checkout,Satisfied
+QCOM5083,Swiggy Instamart,Ready To Eat Meals,20,Moderate Delay,16-20,4,2,0,Order Accuracy,Dissatisfied
+QCRT100318,Blinkit,Electronics Accessories,21,Moderate Delay,21-30,5,3,0,Delay & Speed,Neutral
+QCRT100323,JioMart,Pet Supplies,36,Severe Delay,31-45,6,1,1,Delay & Speed,Dissatisfied
+QCRT100130,Blinkit,Meat & Seafood,72,Severe Delay,61-90,8,2,0,Support & Refund,Dissatisfied
+QCRT100088,Swiggy Instamart,Dairy & Eggs,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100364,Swiggy Instamart,Frozen Food,0,On Time,0,0,4,0,Rider Conduct,Satisfied
+QCRT100383,Swiggy Instamart,Personal Care,0,On Time,0,0,5,0,Rider Conduct,Satisfied
+QCRT100162,Blinkit,Snacks & Beverages,7,Minor Delay,6-10,2,4,0,Packaging,Satisfied
+ORD10089,Blinkit,Baby Care,31,Severe Delay,31-45,6,2,0,Rider Conduct,Dissatisfied
+QCOM5104,JioMart,Snacks & Beverages,14,Moderate Delay,11-15,3,2,1,Cold Chain,Dissatisfied
+QCRT100499,Zepto,Ready To Eat Meals,2,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100273,Flipkart Minutes,Snacks & Beverages,91,Severe Delay,90+,9,3,0,Delay & Speed,Neutral
+QCRT100029,Blinkit,Frozen Food,38,Severe Delay,31-45,6,1,0,Order Accuracy,Dissatisfied
+ORD10088,JioMart,Frozen Food,32,Severe Delay,31-45,6,3,0,General Experience,Neutral
+QCRT100157,Zepto,Household Essentials,30,Moderate Delay,21-30,5,2,1,Delay & Speed,Dissatisfied
+QCOM5111,Zepto,Dairy & Eggs,3,Minor Delay,1-5,1,4,0,Packaging,Satisfied
+QCRT100220,Zepto,Ready To Eat Meals,15,Moderate Delay,11-15,3,1,0,Support & Refund,Dissatisfied
+QCRT100230,Zepto,Dairy & Eggs,18,Moderate Delay,16-20,4,4,0,Product Quality,Satisfied
+QCRT100389,JioMart,Bakery,49,Severe Delay,46-60,7,2,1,Support & Refund,Dissatisfied
+ORD10115,Flipkart Minutes,Stationery,33,Severe Delay,31-45,6,1,1,Product Quality,Dissatisfied
+QCRT100016,Swiggy Instamart,Electronics Accessories,6,Minor Delay,6-10,2,4,0,App & Checkout,Satisfied
+QCOM5092,Blinkit,Pet Supplies,3,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100470,Blinkit,Fruits & Vegetables,16,Moderate Delay,16-20,4,2,0,Order Accuracy,Dissatisfied
+QCRT100473,Swiggy Instamart,Fruits & Vegetables,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100280,Zepto,Fruits & Vegetables,20,Moderate Delay,16-20,4,2,0,Delay & Speed,Dissatisfied
+QCRT100023,Blinkit,Pet Supplies,16,Moderate Delay,16-20,4,4,0,Packaging,Satisfied
+QCRT100061,JioMart,Fruits & Vegetables,19,Moderate Delay,16-20,4,4,0,Delay & Speed,Satisfied
+QCRT100437,Blinkit,Dairy & Eggs,17,Moderate Delay,16-20,4,3,1,Product Quality,Neutral
+QCRT100417,Flipkart Minutes,Fruits & Vegetables,29,Moderate Delay,21-30,5,2,1,Support & Refund,Dissatisfied
+QCRT100163,Swiggy Instamart,Dairy & Eggs,13,Moderate Delay,11-15,3,3,0,Delay & Speed,Neutral
+QCRT100179,Zepto,Stationery,45,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
+QCRT100107,BigBasket Now,Fruits & Vegetables,23,Moderate Delay,21-30,5,3,0,Delay & Speed,Neutral
+QCRT100452,Zepto,Stationery,47,Severe Delay,46-60,7,2,1,Order Accuracy,Dissatisfied
+QCRT100482,JioMart,Household Essentials,30,Moderate Delay,21-30,5,1,1,Support & Refund,Dissatisfied
+QCRT100176,Swiggy Instamart,Fruits & Vegetables,10,Minor Delay,6-10,2,4,0,App & Checkout,Satisfied
+QCRT100277,Zepto,Fruits & Vegetables,37,Severe Delay,31-45,6,2,1,Order Accuracy,Dissatisfied
+QCRT100373,Flipkart Minutes,Snacks & Beverages,103,Severe Delay,90+,9,1,1,Support & Refund,Dissatisfied
+QCRT100355,Flipkart Minutes,Fruits & Vegetables,55,Severe Delay,46-60,7,1,1,Cold Chain,Dissatisfied
+QCOM5107,BigBasket Now,Ready To Eat Meals,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100197,Amazon Fresh,Ready To Eat Meals,78,Severe Delay,61-90,8,3,0,Product Quality,Neutral
+QCOM5017,Swiggy Instamart,Fruits & Vegetables,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10022,Amazon Fresh,Fruits & Vegetables,23,Moderate Delay,21-30,5,2,1,Order Accuracy,Dissatisfied
+QCRT100246,Blinkit,Snacks & Beverages,17,Moderate Delay,16-20,4,3,1,Delay & Speed,Neutral
+QCRT100388,Swiggy Instamart,Dairy & Eggs,23,Moderate Delay,21-30,5,4,0,App & Checkout,Satisfied
+QCRT100037,Zepto,Ready To Eat Meals,26,Moderate Delay,21-30,5,2,0,Delay & Speed,Dissatisfied
+QCRT100254,Blinkit,Dairy & Eggs,0,On Time,0,0,4,0,Rider Conduct,Satisfied
+QCRT100350,Zepto,Snacks & Beverages,36,Severe Delay,31-45,6,1,1,Order Accuracy,Dissatisfied
+QCRT100380,JioMart,Bakery,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100274,Blinkit,Household Essentials,12,Moderate Delay,11-15,3,3,0,Product Quality,Neutral
+QCRT100136,Flipkart Minutes,Personal Care,97,Severe Delay,90+,9,3,1,Delay & Speed,Neutral
+ORD10083,Zepto,Pet Supplies,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100196,Swiggy Instamart,Ready To Eat Meals,0,On Time,0,0,5,0,General Experience,Satisfied
+QCOM5051,Blinkit,Personal Care,8,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCRT100184,JioMart,Personal Care,2,Minor Delay,1-5,1,4,1,Delay & Speed,Satisfied
+QCOM5026,Swiggy Instamart,Snacks & Beverages,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100496,Swiggy Instamart,Bakery,0,On Time,0,0,5,0,General Experience,Satisfied
+ORD10014,Blinkit,Pet Supplies,17,Moderate Delay,16-20,4,2,0,Cold Chain,Dissatisfied
+ORD10128,Zepto,Household Essentials,35,Severe Delay,31-45,6,1,1,Cold Chain,Dissatisfied
+QCRT100080,Zepto,Meat & Seafood,14,Moderate Delay,11-15,3,4,0,Rider Conduct,Satisfied
+QCRT100204,Blinkit,Personal Care,52,Severe Delay,46-60,7,2,0,Order Accuracy,Dissatisfied
+ORD10143,BigBasket Now,Stationery,47,Severe Delay,46-60,7,2,1,Product Quality,Dissatisfied
+QCRT100337,Blinkit,Frozen Food,25,Moderate Delay,21-30,5,4,0,Delay & Speed,Satisfied
+QCOM5080,Blinkit,Electronics Accessories,2,Minor Delay,1-5,1,4,0,Product Quality,Satisfied
+QCRT100104,Zepto,Beauty & Cosmetics,14,Moderate Delay,11-15,3,2,0,Order Accuracy,Dissatisfied
+QCRT100300,Flipkart Minutes,Household Essentials,50,Severe Delay,46-60,7,1,1,Cold Chain,Dissatisfied
+QCRT100335,Blinkit,Dairy & Eggs,28,Moderate Delay,21-30,5,1,0,Support & Refund,Dissatisfied
+ORD10002,Zepto,Household Essentials,11,Moderate Delay,11-15,3,3,0,Product Quality,Neutral
+QCRT100071,Swiggy Instamart,Fruits & Vegetables,12,Moderate Delay,11-15,3,4,0,General Experience,Satisfied
+QCRT100236,JioMart,Personal Care,39,Severe Delay,31-45,6,2,0,App & Checkout,Dissatisfied
+QCRT100447,Zepto,Household Essentials,25,Moderate Delay,21-30,5,1,0,Packaging,Dissatisfied
+QCRT100394,Zepto,Dairy & Eggs,5,Minor Delay,1-5,1,3,0,General Experience,Neutral
+QCRT100426,Blinkit,Personal Care,10,Minor Delay,6-10,2,4,0,Rider Conduct,Satisfied
+ORD10048,Amazon Fresh,Bakery,9,Minor Delay,6-10,2,4,0,Packaging,Satisfied
+ORD10138,Flipkart Minutes,Pet Supplies,16,Moderate Delay,16-20,4,4,0,General Experience,Satisfied
+ORD10141,JioMart,Snacks & Beverages,54,Severe Delay,46-60,7,3,0,General Experience,Neutral
+QCRT100429,Flipkart Minutes,Household Essentials,65,Severe Delay,61-90,8,1,1,Support & Refund,Dissatisfied
+QCRT100440,Swiggy Instamart,Personal Care,3,Minor Delay,1-5,1,3,0,App & Checkout,Neutral
+QCRT100091,Swiggy Instamart,Stationery,0,On Time,0,0,5,0,Packaging,Satisfied
+QCOM5039,Zepto,Frozen Food,14,Moderate Delay,11-15,3,3,1,General Experience,Neutral
+ORD10086,Flipkart Minutes,Pet Supplies,59,Severe Delay,46-60,7,1,1,Support & Refund,Dissatisfied
+QCRT100416,Blinkit,Snacks & Beverages,10,Minor Delay,6-10,2,4,0,Packaging,Satisfied
+QCRT100229,BigBasket Now,Meat & Seafood,0,On Time,0,0,3,0,App & Checkout,Neutral
+QCRT100024,JioMart,Fruits & Vegetables,16,Moderate Delay,16-20,4,3,0,Delay & Speed,Neutral
+QCRT100397,Swiggy Instamart,Meat & Seafood,2,Minor Delay,1-5,1,3,0,General Experience,Neutral
+QCRT100271,Swiggy Instamart,Electronics Accessories,37,Severe Delay,31-45,6,2,1,App & Checkout,Dissatisfied
+QCRT100049,Zepto,Baby Care,53,Severe Delay,46-60,7,1,0,Support & Refund,Dissatisfied
+QCRT100213,Flipkart Minutes,Frozen Food,124,Severe Delay,90+,9,1,0,Rider Conduct,Dissatisfied
+QCRT100493,BigBasket Now,Household Essentials,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100198,Zepto,Beauty & Cosmetics,18,Moderate Delay,16-20,4,3,0,Product Quality,Neutral
+QCRT100161,Zepto,Dairy & Eggs,15,Moderate Delay,11-15,3,3,0,Product Quality,Neutral
+QCRT100011,Blinkit,Electronics Accessories,25,Moderate Delay,21-30,5,3,1,Product Quality,Neutral
+QCRT100202,BigBasket Now,Dairy & Eggs,0,On Time,0,0,4,0,Packaging,Satisfied
+QCRT100361,Swiggy Instamart,Household Essentials,3,Minor Delay,1-5,1,4,0,App & Checkout,Satisfied
+QCRT100010,Blinkit,Ready To Eat Meals,24,Moderate Delay,21-30,5,3,1,Packaging,Neutral
+ORD10019,Blinkit,Pet Supplies,0,On Time,0,0,5,1,Product Quality,Satisfied
+QCRT100081,Swiggy Instamart,Bakery,6,Minor Delay,6-10,2,5,0,Product Quality,Satisfied
+QCOM5053,Zepto,Frozen Food,29,Moderate Delay,21-30,5,1,1,Support & Refund,Dissatisfied
+QCRT100065,Zepto,Household Essentials,16,Moderate Delay,16-20,4,2,0,Cold Chain,Dissatisfied
+QCRT100331,Zepto,Ready To Eat Meals,19,Moderate Delay,16-20,4,3,0,Packaging,Neutral
+QCRT100345,Flipkart Minutes,Snacks & Beverages,86,Severe Delay,61-90,8,2,0,Support & Refund,Dissatisfied
+QCOM5049,Zepto,Snacks & Beverages,0,On Time,0,0,4,1,Rider Conduct,Satisfied
+QCRT100126,Zepto,Snacks & Beverages,5,Minor Delay,1-5,1,2,0,Product Quality,Dissatisfied
+ORD10013,Zepto,Dairy & Eggs,8,Minor Delay,6-10,2,4,0,Packaging,Satisfied
+QCRT100281,JioMart,Personal Care,45,Severe Delay,31-45,6,3,0,Packaging,Neutral
+QCRT100044,Blinkit,Frozen Food,17,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100434,Swiggy Instamart,Snacks & Beverages,11,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCOM5109,JioMart,Frozen Food,21,Moderate Delay,21-30,5,3,0,Delay & Speed,Neutral
+QCRT100174,Swiggy Instamart,Personal Care,65,Severe Delay,61-90,8,1,0,Support & Refund,Dissatisfied
+QCRT100483,JioMart,Ready To Eat Meals,35,Severe Delay,31-45,6,1,0,Delay & Speed,Dissatisfied
+QCRT100357,JioMart,Dairy & Eggs,19,Moderate Delay,16-20,4,4,0,Rider Conduct,Satisfied
+QCRT100120,Zepto,Beauty & Cosmetics,17,Moderate Delay,16-20,4,2,1,Delay & Speed,Dissatisfied
+ORD10057,JioMart,Baby Care,13,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCRT100032,Swiggy Instamart,Bakery,10,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCRT100040,Blinkit,Snacks & Beverages,4,Minor Delay,1-5,1,5,0,Rider Conduct,Satisfied
+QCRT100128,Swiggy Instamart,Stationery,9,Minor Delay,6-10,2,5,0,Product Quality,Satisfied
+QCRT100407,Flipkart Minutes,Electronics Accessories,130,Severe Delay,90+,9,2,1,Order Accuracy,Dissatisfied
+QCRT100063,Blinkit,Fruits & Vegetables,13,Moderate Delay,11-15,3,3,0,Product Quality,Neutral
+QCRT100033,BigBasket Now,Personal Care,44,Severe Delay,31-45,6,1,0,Packaging,Dissatisfied
+QCRT100307,Swiggy Instamart,Stationery,5,Minor Delay,1-5,1,5,0,Rider Conduct,Satisfied
+ORD10005,BigBasket Now,Baby Care,20,Moderate Delay,16-20,4,3,1,General Experience,Neutral
+QCRT100238,Blinkit,Dairy & Eggs,10,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCRT100034,Zepto,Health & Wellness,27,Moderate Delay,21-30,5,3,1,Product Quality,Neutral
+QCRT100400,Zepto,Dairy & Eggs,59,Severe Delay,46-60,7,2,1,Delay & Speed,Dissatisfied
+QCRT100419,Blinkit,Meat & Seafood,51,Severe Delay,46-60,7,3,0,Packaging,Neutral
+ORD10109,BigBasket Now,Personal Care,20,Moderate Delay,16-20,4,2,1,Product Quality,Dissatisfied
+QCRT100008,Zepto,Frozen Food,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100432,Swiggy Instamart,Baby Care,12,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCRT100076,Swiggy Instamart,Pet Supplies,5,Minor Delay,1-5,1,3,1,General Experience,Neutral
+ORD10051,BigBasket Now,Baby Care,7,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCRT100206,Blinkit,Snacks & Beverages,2,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100317,JioMart,Personal Care,31,Severe Delay,31-45,6,1,1,Order Accuracy,Dissatisfied
+QCRT100459,Blinkit,Ready To Eat Meals,20,Moderate Delay,16-20,4,4,0,Product Quality,Satisfied
+QCRT100129,Swiggy Instamart,Personal Care,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100115,Swiggy Instamart,Pet Supplies,4,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100006,Blinkit,Electronics Accessories,58,Severe Delay,46-60,7,1,1,Packaging,Dissatisfied
+QCRT100234,Flipkart Minutes,Household Essentials,156,Severe Delay,90+,9,1,1,Packaging,Dissatisfied
+QCRT100411,Zepto,Dairy & Eggs,68,Severe Delay,61-90,8,2,0,Support & Refund,Dissatisfied
+ORD10052,Zepto,Stationery,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100492,BigBasket Now,Snacks & Beverages,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100398,Blinkit,Snacks & Beverages,25,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+QCRT100286,BigBasket Now,Personal Care,45,Severe Delay,31-45,6,1,1,Cold Chain,Dissatisfied
+QCRT100192,Zepto,Personal Care,2,Minor Delay,1-5,1,4,0,Packaging,Satisfied
+QCRT100478,Swiggy Instamart,Stationery,7,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCRT100386,Blinkit,Meat & Seafood,18,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100415,BigBasket Now,Personal Care,7,Minor Delay,6-10,2,2,1,Product Quality,Dissatisfied
+QCOM5076,Zepto,Frozen Food,53,Severe Delay,46-60,7,2,0,Product Quality,Dissatisfied
+ORD10106,Flipkart Minutes,Stationery,144,Severe Delay,90+,9,3,0,General Experience,Neutral
+QCRT100410,Zepto,Fruits & Vegetables,74,Severe Delay,61-90,8,3,0,General Experience,Neutral
+QCRT100046,Swiggy Instamart,Meat & Seafood,28,Moderate Delay,21-30,5,2,1,Delay & Speed,Dissatisfied
+QCRT100228,Blinkit,Snacks & Beverages,79,Severe Delay,61-90,8,2,1,Order Accuracy,Dissatisfied
+QCRT100166,BigBasket Now,Meat & Seafood,0,On Time,0,0,5,0,Delay & Speed,Satisfied
+QCRT100341,Blinkit,Snacks & Beverages,15,Moderate Delay,11-15,3,4,0,Packaging,Satisfied
+QCRT100359,Zepto,Personal Care,2,Minor Delay,1-5,1,3,0,General Experience,Neutral
+QCRT100051,JioMart,Dairy & Eggs,40,Severe Delay,31-45,6,1,1,Order Accuracy,Dissatisfied
+QCRT100215,Blinkit,Snacks & Beverages,28,Moderate Delay,21-30,5,1,0,Delay & Speed,Dissatisfied
+QCRT100396,Swiggy Instamart,Meat & Seafood,3,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100251,Blinkit,Snacks & Beverages,21,Moderate Delay,21-30,5,4,0,App & Checkout,Satisfied
+QCRT100328,JioMart,Meat & Seafood,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100172,Blinkit,Dairy & Eggs,10,Minor Delay,6-10,2,5,0,Delay & Speed,Satisfied
+QCRT100090,Swiggy Instamart,Pet Supplies,6,Minor Delay,6-10,2,5,0,General Experience,Satisfied
+QCOM5139,Zepto,Meat & Seafood,19,Moderate Delay,16-20,4,2,0,Support & Refund,Dissatisfied
+ORD10010,Blinkit,Electronics Accessories,41,Severe Delay,31-45,6,1,1,Product Quality,Dissatisfied
+QCRT100427,Zepto,Beauty & Cosmetics,11,Moderate Delay,11-15,3,3,0,Product Quality,Neutral
+QCOM5050,JioMart,Bakery,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100433,JioMart,Fruits & Vegetables,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100363,Swiggy Instamart,Fruits & Vegetables,27,Moderate Delay,21-30,5,1,0,App & Checkout,Dissatisfied
+QCRT100372,Swiggy Instamart,Household Essentials,8,Minor Delay,6-10,2,4,0,Product Quality,Satisfied
+QCRT100243,Blinkit,Personal Care,20,Moderate Delay,16-20,4,1,1,Cold Chain,Dissatisfied
+QCRT100391,Blinkit,Dairy & Eggs,45,Severe Delay,31-45,6,2,0,Cold Chain,Dissatisfied
+QCRT100368,Flipkart Minutes,Household Essentials,113,Severe Delay,90+,9,1,1,Product Quality,Dissatisfied
+QCRT100453,Swiggy Instamart,Snacks & Beverages,18,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100121,Blinkit,Baby Care,53,Severe Delay,46-60,7,2,1,Support & Refund,Dissatisfied
+QCRT100392,Zepto,Frozen Food,55,Severe Delay,46-60,7,2,1,Support & Refund,Dissatisfied
+QCRT100237,JioMart,Personal Care,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100112,Zepto,Snacks & Beverages,21,Moderate Delay,21-30,5,2,1,Order Accuracy,Dissatisfied
+QCRT100352,Blinkit,Snacks & Beverages,14,Moderate Delay,11-15,3,3,0,Product Quality,Neutral
+QCRT100017,Swiggy Instamart,Ready To Eat Meals,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100227,Blinkit,Bakery,16,Moderate Delay,16-20,4,4,1,Product Quality,Satisfied
+QCRT100276,Flipkart Minutes,Bakery,39,Severe Delay,31-45,6,2,1,Support & Refund,Dissatisfied
+QCRT100487,JioMart,Electronics Accessories,25,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+QCRT100074,Swiggy Instamart,Snacks & Beverages,0,On Time,0,0,4,0,Product Quality,Satisfied
+QCRT100472,Amazon Fresh,Snacks & Beverages,80,Severe Delay,61-90,8,1,1,Support & Refund,Dissatisfied
+QCRT100056,Blinkit,Personal Care,13,Moderate Delay,11-15,3,4,0,Packaging,Satisfied
+QCRT100412,Swiggy Instamart,Beauty & Cosmetics,2,Minor Delay,1-5,1,3,0,Product Quality,Neutral
+QCRT100018,Swiggy Instamart,Ready To Eat Meals,1,Minor Delay,1-5,1,2,0,Order Accuracy,Dissatisfied
+ORD10044,Zepto,Bakery,18,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100167,Blinkit,Meat & Seafood,2,Minor Delay,1-5,1,5,0,General Experience,Satisfied
+QCRT100083,JioMart,Fruits & Vegetables,28,Moderate Delay,21-30,5,2,1,Support & Refund,Dissatisfied
+QCRT100310,Swiggy Instamart,Personal Care,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100078,Swiggy Instamart,Electronics Accessories,17,Moderate Delay,16-20,4,3,0,App & Checkout,Neutral
+QCOM5087,Zepto,Electronics Accessories,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100132,Zepto,Fruits & Vegetables,3,Minor Delay,1-5,1,5,0,App & Checkout,Satisfied
+QCRT100094,Zepto,Electronics Accessories,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100003,Amazon Fresh,Electronics Accessories,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100154,Zepto,Dairy & Eggs,14,Moderate Delay,11-15,3,2,1,Cold Chain,Dissatisfied
+QCRT100313,JioMart,Fruits & Vegetables,51,Severe Delay,46-60,7,2,1,Support & Refund,Dissatisfied
+QCRT100002,Zepto,Personal Care,21,Moderate Delay,21-30,5,3,1,General Experience,Neutral
+QCRT100004,JioMart,Personal Care,0,On Time,0,0,4,0,General Experience,Satisfied
+QCRT100330,Blinkit,Fruits & Vegetables,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100295,JioMart,Ready To Eat Meals,20,Moderate Delay,16-20,4,3,0,General Experience,Neutral
+QCRT100340,Zepto,Ready To Eat Meals,40,Severe Delay,31-45,6,1,1,App & Checkout,Dissatisfied
+QCRT100306,Blinkit,Snacks & Beverages,0,On Time,0,0,4,0,Product Quality,Satisfied
+QCRT100148,Swiggy Instamart,Bakery,0,On Time,0,0,5,1,Product Quality,Satisfied
+QCRT100495,Zepto,Snacks & Beverages,22,Moderate Delay,21-30,5,3,0,Product Quality,Neutral
+QCRT100201,Swiggy Instamart,Ready To Eat Meals,10,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCRT100285,Swiggy Instamart,Frozen Food,8,Minor Delay,6-10,2,4,0,Product Quality,Satisfied
+QCRT100152,Zepto,Bakery,61,Severe Delay,61-90,8,1,1,Rider Conduct,Dissatisfied
+QCRT100089,Zepto,Bakery,2,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100399,Blinkit,Fruits & Vegetables,14,Moderate Delay,11-15,3,2,1,Order Accuracy,Dissatisfied
+QCRT100153,Zepto,Household Essentials,29,Moderate Delay,21-30,5,2,0,Support & Refund,Dissatisfied
+QCRT100485,Blinkit,Snacks & Beverages,40,Severe Delay,31-45,6,1,1,Rider Conduct,Dissatisfied
+QCRT100338,Zepto,Personal Care,39,Severe Delay,31-45,6,1,0,Support & Refund,Dissatisfied
+QCRT100344,JioMart,Snacks & Beverages,5,Minor Delay,1-5,1,3,0,General Experience,Neutral
+QCRT100369,Blinkit,Meat & Seafood,0,On Time,0,0,5,0,Product Quality,Satisfied
+QCRT100445,Zepto,Household Essentials,22,Moderate Delay,21-30,5,3,0,General Experience,Neutral
+QCRT100096,Swiggy Instamart,Household Essentials,3,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100182,Blinkit,Fruits & Vegetables,25,Moderate Delay,21-30,5,4,1,Packaging,Satisfied
+QCRT100461,Zepto,Fruits & Vegetables,18,Moderate Delay,16-20,4,1,1,Delay & Speed,Dissatisfied
+QCRT100367,Blinkit,Dairy & Eggs,5,Minor Delay,1-5,1,4,0,General Experience,Satisfied
+QCRT100093,Flipkart Minutes,Electronics Accessories,111,Severe Delay,90+,9,1,0,Rider Conduct,Dissatisfied
+QCRT100347,JioMart,Snacks & Beverages,42,Severe Delay,31-45,6,3,0,Delay & Speed,Neutral
+QCRT100475,Swiggy Instamart,Fruits & Vegetables,0,On Time,0,0,4,0,Packaging,Satisfied
+QCRT100284,Zepto,Frozen Food,10,Minor Delay,6-10,2,5,0,Delay & Speed,Satisfied
+QCRT100181,Blinkit,Baby Care,17,Moderate Delay,16-20,4,2,1,Cold Chain,Dissatisfied
+QCRT100014,Blinkit,Stationery,14,Moderate Delay,11-15,3,2,1,Order Accuracy,Dissatisfied
+QCRT100101,Flipkart Minutes,Household Essentials,99,Severe Delay,90+,9,1,1,Order Accuracy,Dissatisfied
+QCRT100052,Flipkart Minutes,Bakery,22,Moderate Delay,21-30,5,2,0,Packaging,Dissatisfied
+QCRT100072,JioMart,Fruits & Vegetables,42,Severe Delay,31-45,6,1,0,Rider Conduct,Dissatisfied
+QCRT100194,Flipkart Minutes,Meat & Seafood,121,Severe Delay,90+,9,1,1,Order Accuracy,Dissatisfied
+QCRT100118,Zepto,Fruits & Vegetables,13,Moderate Delay,11-15,3,2,0,Order Accuracy,Dissatisfied
+QCRT100298,Flipkart Minutes,Dairy & Eggs,143,Severe Delay,90+,9,1,1,Order Accuracy,Dissatisfied
+QCRT100343,Flipkart Minutes,Fruits & Vegetables,82,Severe Delay,61-90,8,1,1,Packaging,Dissatisfied
+QCRT100435,Blinkit,Beauty & Cosmetics,53,Severe Delay,46-60,7,1,1,Support & Refund,Dissatisfied
+QCRT100486,Swiggy Instamart,Snacks & Beverages,4,Minor Delay,1-5,1,5,0,Delay & Speed,Satisfied
+QCRT100460,Blinkit,Household Essentials,5,Minor Delay,1-5,1,4,0,Product Quality,Satisfied
+QCRT100413,Zepto,Dairy & Eggs,28,Moderate Delay,21-30,5,3,0,App & Checkout,Neutral
+QCRT100108,JioMart,Pet Supplies,12,Moderate Delay,11-15,3,2,0,Packaging,Dissatisfied
+QCRT100066,Blinkit,Dairy & Eggs,59,Severe Delay,46-60,7,2,1,Rider Conduct,Dissatisfied
+QCRT100296,JioMart,Meat & Seafood,39,Severe Delay,31-45,6,1,0,Support & Refund,Dissatisfied
+QCRT100469,BigBasket Now,Beauty & Cosmetics,0,On Time,0,0,5,0,Packaging,Satisfied
+QCRT100443,JioMart,Personal Care,11,Moderate Delay,11-15,3,4,0,General Experience,Satisfied
+QCRT100105,Zepto,Ready To Eat Meals,75,Severe Delay,61-90,8,2,1,Support & Refund,Dissatisfied
+QCRT100208,Blinkit,Electronics Accessories,11,Moderate Delay,11-15,3,2,0,Order Accuracy,Dissatisfied
+QCRT100259,Flipkart Minutes,Frozen Food,105,Severe Delay,90+,9,2,1,App & Checkout,Dissatisfied
+QCRT100175,JioMart,Frozen Food,0,On Time,0,0,5,0,General Experience,Satisfied
+QCRT100365,Swiggy Instamart,Snacks & Beverages,0,On Time,0,0,5,0,App & Checkout,Satisfied
+QCRT100035,Blinkit,Meat & Seafood,30,Moderate Delay,21-30,5,1,0,Order Accuracy,Dissatisfied
+QCRT100106,Zepto,Dairy & Eggs,14,Moderate Delay,11-15,3,3,0,General Experience,Neutral
+QCRT100292,Blinkit,Ready To Eat Meals,3,Minor Delay,1-5,1,5,0,General Experience,Satisfied
+QCRT100244,Swiggy Instamart,Beauty & Cosmetics,6,Minor Delay,6-10,2,4,0,General Experience,Satisfied
+QCRT100494,BigBasket Now,Fruits & Vegetables,4,Minor Delay,1-5,1,5,0,App & Checkout,Satisfied
+QCRT100454,Zepto,Fruits & Vegetables,18,Moderate Delay,16-20,4,4,0,General Experience,Satisfied
+QCRT100293,BigBasket Now,Pet Supplies,36,Severe Delay,31-45,6,1,1,Support & Refund,Dissatisfied
